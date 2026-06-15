@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+android/
+ios/
+*.log
+plan_proyecto.docx
